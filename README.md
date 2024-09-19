@@ -1,3 +1,4 @@
+[Uploading ch02_string.py…]()
 #문자열의 이해(String)
 #  - 데이터 분석
 #  - 자연어 처리
